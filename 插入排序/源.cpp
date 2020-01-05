@@ -10,4 +10,5 @@ int main() {
 	cout << "hello world" << endl;
 	cout << "23333" << endl;
 	cout << 111 << endl;
+	cout << 22;
 }
